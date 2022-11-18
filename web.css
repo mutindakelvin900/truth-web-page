@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 10vh;
+    background-color: blueviolet;
+    color: white;
+}
+header div ul{
+    display: flex;
+    list-style: none;
+}
+header div ul li{
+    padding-right: 20px;
+}
+header div ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.T{
+    font-size: 150px;
+    color: blueviolet;
+}
+.first{
+    color: fuchsia;
+}
+
+.R{
+    background-color: green;
+    width: 250px;
+    text-align: center;
+   border-radius: 20px;
+    align-items: center;
+    padding: 15px;
+    margin: 10px;
+}
+.L{
+    background-color: blueviolet;
+    width: 250px;
+    text-align: center;
+    border-radius: 20px;
+    align-items: center;
+    padding: 15px;
+    margin: 10px;
+}
+.H{
+    background-color: chocolate;
+    width: 250px;
+    text-align: center;
+    border-radius: 20px;
+    align-items: center;
+    padding: 15px;
+    margin: 10px;
+}
+.section{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url('./home-internet-multiple-devices.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+}
+.second a{
+    text-decoration: none;
+}
+.mbs h1{
+    text-align: center;
+}
+.boxes{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+max-width: 50%;
+margin: auto;
+
+}
+.box{
+    width: 120px;
+    height: 120px;
+    background-color: darkorange;
+    color: blue;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 100px;
+}
+.enjoy{
+    color: crimson;
+    font-size: 60px;
+}
+.third{
+    background-color: darkorange;
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+    
+}
+.third a{
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+}
+.below{
+    margin-top: 40px;
+}
+h4{
+    margin-top: 50px;
+}
+.rrrrr{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.img{
+    margin-top: 40px;
+    margin-left: 250px;
+}
+.isp{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.img2{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.Ethernet{
+    margin-top: 40px;
+}
+.img3{
+    margin-top: 40px;
+}
+.img4{
+    height: 40vh;
+    width: 40vw;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+.kevoh{
+    margin-top: 40px;
+}
+.setA{
+    margin-top: 40px;
+}
+@media(max-width:576px){
+    .nav__wrapper{
+      flex-direction: column;
+    }
+  }
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
